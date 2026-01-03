@@ -1,16 +1,38 @@
-## Hi there 👋
+## José Francis Mateo
+### Frontend Developer · React · JavaScript
 
-<!--
-**Francismateovendicatore/Francismateovendicatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer enfocado en el desarrollo de interfaces web modernas utilizando React y JavaScript (ES6+). Trabajo con una mentalidad orientada a código limpio, componentes reutilizables y buenas prácticas del desarrollo frontend.
 
-Here are some ideas to get you started:
+Ubicado en Santo Domingo, República Dominicana. Abierto a oportunidades remotas y colaboraciones profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Proyecto Destacado
+
+**Francis Luxor Motors**  
+Aplicación web tipo catálogo desarrollada con React.
+
+- Arquitectura basada en componentes  
+- Manejo de estado con React Hooks  
+- Renderizado dinámico de datos  
+- Optimización del build con Vite  
+
+---
+
+### Tecnologías
+
+React · JavaScript (ES6+) · HTML5 · CSS3 · Vite · Git · GitHub
+
+---
+
+### Contacto
+
+Email: Francismateojimenez.44@gmail.com  
+LinkedIn: https://www.linkedin.com/in/francis-mateo-6051243a2  
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francismateovendicatore&show_icons=true&theme=dark)
+
