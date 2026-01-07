@@ -28,7 +28,9 @@ React · JavaScript (ES6+) · HTML5 · CSS3 · Vite · Git · GitHub
 ### Contacto
 
 Email: Francismateojimenez.44@gmail.com  
-LinkedIn: https://www.linkedin.com/in/francis-mateo-6051243a2  
+LinkedIn: www.linkedin.com/in/francismateojimenezvendicatore 
+Vercel: https://francismateovendicatore.vercel.app
+
 
 ---
 
