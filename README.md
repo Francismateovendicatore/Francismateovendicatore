@@ -29,7 +29,7 @@ React · JavaScript (ES6+) · HTML5 · CSS3 · Vite · Git · GitHub
 
 Email: Francismateojimenez.44@gmail.com  
 LinkedIn: www.linkedin.com/in/francismateojimenezvendicatore 
-Vercel: https://francismateovendicatore.vercel.app
+
 
 
 ---
