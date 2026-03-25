@@ -1,13 +1,15 @@
 ## José Francis Mateo
-### Frontend Developer · React · JavaScript
+### Full Stack Developer · React · JavaScript · Node.js · PostgreSQL · SQL
 
-Frontend Developer enfocado en el desarrollo de interfaces web modernas utilizando React y JavaScript (ES6+). Trabajo con una mentalidad orientada a código limpio, componentes reutilizables y buenas prácticas del desarrollo frontend.
+Full Stack Developer enfocado en la creación de aplicaciones web modernas, escalables y eficientes.  
+Desarrollo interfaces dinámicas con React y construyo lógica backend con Node.js, integrando bases de datos relacionales como PostgreSQL.
 
-Ubicado en Santo Domingo, República Dominicana. Abierto a oportunidades remotas y colaboraciones profesionales.
+📍 Santo Domingo, República Dominicana  
+💼 Abierto a oportunidades remotas y colaboraciones profesionales  
 
 ---
 
-### Proyecto Destacado
+### 🚀 Proyecto Destacado
 
 **Francis Luxor Motors**  
 Aplicación web tipo catálogo desarrollada con React.
@@ -19,22 +21,30 @@ Aplicación web tipo catálogo desarrollada con React.
 
 ---
 
-### Tecnologías
+### 🛠️ Tecnologías
 
-React · JavaScript (ES6+) · HTML5 · CSS3 · Vite · Git · GitHub
+**Frontend:**  
+React · JavaScript (ES6+) · HTML5 · CSS3 · Vite  
+
+**Backend:**  
+Node.js · Express  
+
+**Base de Datos:**  
+PostgreSQL · SQL  
+
+**Herramientas:**  
+Git · GitHub  
 
 ---
 
-### Contacto
+### 📬 Contacto
 
-Email: Francismateojimenez.44@gmail.com  
-LinkedIn: www.linkedin.com/in/francismateojimenezvendicatore 
-
-
+📧 Email: Francismateojimenez.44@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/francismateojimenezprofesional  
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francismateovendicatore&show_icons=true&theme=dark)
 
